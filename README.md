@@ -1,1 +1,1 @@
-MSO500 Digital probe
+MSO5000 Digital probe
