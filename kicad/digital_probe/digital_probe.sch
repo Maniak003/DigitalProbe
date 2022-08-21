@@ -155,8 +155,6 @@ Wire Wire Line
 	3450 3450 3550 3450
 Connection ~ 3450 3450
 Connection ~ 3550 3450
-Wire Wire Line
-	3550 3450 3650 3450
 $Comp
 L Device:R R15
 U 1 1 629A931A
@@ -579,9 +577,6 @@ F 3 "" H 5950 3100 50  0001 C CNN
 	1    5950 3100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3650 3450 3750 3450
-Connection ~ 3650 3450
 $Comp
 L digital_probe-rescue:MC33375ST-My_Library U1
 U 1 1 62BE7183
@@ -1069,4 +1064,6 @@ Wire Wire Line
 Connection ~ 5450 5200
 Text Label 5550 5300 0    50   ~ 0
 +4v
+Wire Wire Line
+	3550 3450 3750 3450
 $EndSCHEMATC
