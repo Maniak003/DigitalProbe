@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L My_Library:SN65LVDS1677 D2
+L digital_probe-rescue:SN65LVDS1677-My_Library D2
 U 1 1 62978B70
 P 3500 2850
 F 0 "D2" H 3900 3450 50  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "" H 3500 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L My_Library:SN65LVDS1677 D2
+L digital_probe-rescue:SN65LVDS1677-My_Library D2
 U 2 1 62979ACA
 P 3500 4450
 F 0 "D2" H 3800 5050 50  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "" H 3500 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L My_Library:SN65LVDS1677 D2
+L digital_probe-rescue:SN65LVDS1677-My_Library D2
 U 3 1 6297C4AE
 P 3500 5950
 F 0 "D2" H 3800 6550 50  0000 C CNN
@@ -47,7 +47,7 @@ F 3 "" H 3500 5950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L My_Library:SN65LVDS1677 D2
+L digital_probe-rescue:SN65LVDS1677-My_Library D2
 U 4 1 6297D457
 P 3500 7450
 F 0 "D2" H 3800 8050 50  0000 C CNN
@@ -583,7 +583,7 @@ Wire Wire Line
 	3650 3450 3750 3450
 Connection ~ 3650 3450
 $Comp
-L My_Library:MC33375ST U1
+L digital_probe-rescue:MC33375ST-My_Library U1
 U 1 1 62BE7183
 P 5200 4200
 F 0 "U1" H 5225 4565 50  0000 C CNN
@@ -1039,7 +1039,7 @@ D14
 Text GLabel 2800 7100 2    50   Input ~ 0
 D15
 $Comp
-L My_Library:Conn J4
+L digital_probe-rescue:Conn-My_Library J4
 U 1 1 631BF0C8
 P 4850 5100
 F 0 "J4" H 4792 4915 50  0001 C CNN
@@ -1050,7 +1050,7 @@ F 3 "~" H 4850 5100 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L My_Library:Conn J5
+L digital_probe-rescue:Conn-My_Library J5
 U 1 1 631C23C8
 P 5550 5100
 F 0 "J5" H 5492 4915 50  0001 C CNN
