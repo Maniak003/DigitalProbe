@@ -6,7 +6,10 @@
     <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
       <p> MSO5000 Digital probe. </p>
       <a href="https://github.com/Maniak003/DigitalProbe/wiki" rel="nofollow">
-        <img src="https://github.com/Maniak003/DigitalProbe/blob/main/Documents/IMG_20220822_103320.jpg" alt="DigitalProbe" style="max-width: 100%;">
+        <img src="https://github.com/Maniak003/DigitalProbe/blob/main/Documents/IMG_20220822_155239.jpg" alt="DigitalProbe" style="max-width: 100%;">
+      </a>
+      <a href="https://github.com/Maniak003/DigitalProbe/wiki" rel="nofollow">
+        <img src="https://github.com/Maniak003/DigitalProbe/blob/main/Documents/IMG_20220822_165848.jpg" alt="DigitalProbe" style="max-width: 100%;">
       </a>
     </body>
 </html>
