@@ -221,11 +221,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# digital_probe-rescue_Conn-My_Library
+# digital_probe-rescue_Conn-My_Library-digital_probe-rescue
 #
-DEF digital_probe-rescue_Conn-My_Library J 0 40 N N 1 F N
+DEF digital_probe-rescue_Conn-My_Library-digital_probe-rescue J 0 40 N N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "digital_probe-rescue_Conn-My_Library" 0 -100 50 H V C CNN
+F1 "digital_probe-rescue_Conn-My_Library-digital_probe-rescue" 0 -100 50 H V C CNN
 F2 "My-library:SMD-CONN" 50 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -237,11 +237,11 @@ X ~ 1 -100 0 79 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# digital_probe-rescue_MC33375ST-My_Library
+# digital_probe-rescue_MC33375ST-My_Library-digital_probe-rescue
 #
-DEF digital_probe-rescue_MC33375ST-My_Library D 0 40 Y Y 1 F N
+DEF digital_probe-rescue_MC33375ST-My_Library-digital_probe-rescue D 0 40 Y Y 1 F N
 F0 "D" -50 650 50 H V C CNN
-F1 "digital_probe-rescue_MC33375ST-My_Library" -50 500 50 H V C CNN
+F1 "digital_probe-rescue_MC33375ST-My_Library-digital_probe-rescue" -50 500 50 H V C CNN
 F2 "Package_TO_SOT_SMD:SOT-223" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -253,11 +253,11 @@ X Gnd 4 0 -200 100 U 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# digital_probe-rescue_SN65LVDS1677-My_Library
+# digital_probe-rescue_SN65LVDS1677-My_Library-digital_probe-rescue
 #
-DEF digital_probe-rescue_SN65LVDS1677-My_Library D 0 40 Y Y 4 L N
+DEF digital_probe-rescue_SN65LVDS1677-My_Library-digital_probe-rescue D 0 40 Y Y 4 L N
 F0 "D" 50 800 50 H V C CNN
-F1 "digital_probe-rescue_SN65LVDS1677-My_Library" 50 700 50 H V C CNN
+F1 "digital_probe-rescue_SN65LVDS1677-My_Library-digital_probe-rescue" 50 700 50 H V C CNN
 F2 "Package_SO:TSSOP-64_6.1x17mm_P0.5mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
